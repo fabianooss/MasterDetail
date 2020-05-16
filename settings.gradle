@@ -1,0 +1,2 @@
+rootProject.name='MasterDetail-01'
+include ':app'

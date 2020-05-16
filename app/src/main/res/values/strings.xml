@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Master detail</string>
+    <string name="variavel">Variável</string>
+    <string name="valor">Valor</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>
